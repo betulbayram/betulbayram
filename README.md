@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Betül Bayram</h1>
 <h3 align="center">A computer engineer student in Turkey</h3>
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=betulbayram)](https://github.com/betulbayram/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
