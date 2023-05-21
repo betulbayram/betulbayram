@@ -40,7 +40,7 @@
     <details open>
   <summary><h3>Languages</h3></summary>
             <p align="center">
-        <a href="https://github.com/1999AZZAR/">
+        <a href="https://github.com/betulbayram/">
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=betulbayram&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
           alt="betulbayram :: overall Top Langs " /></a>
       </p>
