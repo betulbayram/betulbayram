@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hi <img align="bottom" width="35" src="https://www.svgrepo.com/show/434306/waving-hand-skin-1.svg">, I'm Betul Bayram</h1>
-<h4 align="center">a computer engineering student at uludag university</h4>
+<h4 align="center">a computer engineer</h4>
 </div>
 
 -----
